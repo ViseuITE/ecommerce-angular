@@ -1,0 +1,2 @@
+install folder
+-ng g c name_folder
